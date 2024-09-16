@@ -1,6 +1,6 @@
 # Kafka
 
-[![Watch the video](./thumbnail.png)](./preview.gif)
+![Watch the video](./preview.gif)
 
 Kafka is distributed event-store annd stream processing platform. Kafka have Producer and Consumer. so let's see how it works.
 
